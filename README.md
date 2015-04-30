@@ -20,3 +20,10 @@ pa4 - Fourth programming assignment (Simulate a combinational circuit)
 	In pa4, the premise is to read from two text files, 
 	simulate a combinational circuit using a tree-like data structure,
 	and given input produce output.
+	
+	The combinational gates used:
+	- AND gate
+	- OR gate
+	- NOT gate
+	- DECODER (input read as gray code)
+	- MULTIPLEXER (input read as gray code)
