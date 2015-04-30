@@ -1,4 +1,4 @@
-# ComputerArchitecture 
+# Computer Architecture (Spring 2015)
 
 pa1 - First programming assignment (Basic data structures in C90)
 
