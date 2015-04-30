@@ -18,5 +18,5 @@ pa3 - Third programming assignment (Reading compiled c code in x86 and defusing 
 pa4 - Fourth programming assignment (Simulate a combinational circuit)
 
 	In pa4, the premise is to read from two text files, 
-	simulate a combination circuit using a tree-like data structure,
+	simulate a combinational circuit using a tree-like data structure,
 	and given input produce output.
